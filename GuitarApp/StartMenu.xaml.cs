@@ -19,23 +19,49 @@ namespace GuitarApp
     /// </summary>
     public partial class StartMenu : Window
     {
-        private User user;
+        static public List<User> Users;
         public StartMenu()
         {
-            user = new User("login", "1111");
+            Users = new List<User>();
             InitializeComponent();
         }
 
         private void Enter_Click(object sender, RoutedEventArgs e)
         {
-            if (user.Login == Login.Text && user.Password == Password.Password)
+            User user = new User(Login.Text, Password.Password);
+            if(Users.Count > 0)
             {
-                MessageBox.Show("Пароль введен верно!", "Поздравление!!!", MessageBoxButton.OK, MessageBoxImage.Information);
+                bool isCorrect = false;
+                foreach(User item in Users)
+                {
+                    isCorrect = item.Equals(user);
+                    if (isCorrect)
+                        break;
+                }
+
+                if(isCorrect)
+                {
+                    MainWindow win = new MainWindow();
+                    win.Show();
+                    this.Close();
+                }
+                else
+                {
+                    MessageBox.Show("Неправильный пароль!!!", "Не правильный пароль", MessageBoxButton.OK, MessageBoxImage.Asterisk);
+                }
             }
             else
             {
-                MessageBox.Show("Пароль введен не верно!", "Предупреждение!", MessageBoxButton.OK, MessageBoxImage.Warning);
+                MessageBox.Show("Нету пользователей. Зарегестрируйтесь и будуте первым!!!", "Нету пользователей", MessageBoxButton.OK, MessageBoxImage.Asterisk);
             }
+            
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Registration reg = new Registration();
+            reg.ShowDialog();
         }
     }
 }

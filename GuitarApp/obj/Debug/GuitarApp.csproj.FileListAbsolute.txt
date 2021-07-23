@@ -24,3 +24,33 @@ C:\Users\mizko\source\repos\GuitarApp\GuitarApp\bin\Debug\MaterialDesignThemes.W
 C:\Users\mizko\source\repos\GuitarApp\GuitarApp\bin\Debug\MaterialDesignThemes.Wpf.xml
 C:\Users\mizko\source\repos\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.CopyComplete
 C:\Users\mizko\source\repos\GuitarApp\GuitarApp\obj\Debug\App.baml
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.AssemblyReference.cache
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\MainWindow.g.cs
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\StartMenu.g.cs
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\App.g.cs
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\GuitarApp_MarkupCompile.cache
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\GuitarApp_MarkupCompile.lref
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\GuitarApp.exe
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\GuitarApp.pdb
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\GuitarApp.exe.config
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\GuitarApp.exe
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\GuitarApp.pdb
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\EntityFramework.dll
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\EntityFramework.xml
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\App.baml
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\MainWindow.baml
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\StartMenu.baml
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\GuitarApp.g.resources
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\GuitarApp.Properties.Resources.resources
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.GenerateResource.cache
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.CoreCompileInputs.cache
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\GuitarApp.csproj.CopyComplete
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\Registration.g.cs
+C:\Users\mizko\OneDrive\Рабочий стол\GuitarApp\GuitarApp\obj\Debug\Registration.baml
